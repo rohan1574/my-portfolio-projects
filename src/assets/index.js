@@ -8,8 +8,9 @@ import ecommerce from "./images/projects/ecommerce.png";
 import hotel from "./images/projects/hotel.png";
 import projectTwo from "./images/projects/projectTwo.jpg";
 import projectThree from "./images/projects/projectThree.jpeg";
-import testimonialOne from "./images/testmonial/testimonialOne.png";
-import testimonialTwo from "./images/testmonial/testimonialTwo.png";
+import testimonialOne from "./images/testmonial/rony6.png";
+import testimonialOnes from "./images/testmonial/rony3.png";
+import testimonialTwo from "./images/testmonial/rony7.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
 
@@ -24,6 +25,7 @@ export {
   bannerImg,
   projectTwo,
   projectThree,
+  testimonialOnes,
   testimonialOne,
   testimonialTwo,
   quote,

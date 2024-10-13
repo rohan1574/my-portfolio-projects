@@ -10,7 +10,7 @@ const Media = () => {
         <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
         <div className="flex gap-4">
           <a
-            href="https://www.facebook.com"
+            href="https://www.facebook.com/profile.php?id=100013307556198"
             target="_blank"
             rel="noopener noreferrer"
             className="bannerIcon"
@@ -26,7 +26,7 @@ const Media = () => {
             <FaTwitter />
           </a>
           <a
-            href="https://www.linkedin.com"
+            href="https://www.linkedin.com/in/rony-hossen-b2a881254/"
             target="_blank"
             rel="noopener noreferrer"
             className="bannerIcon"
